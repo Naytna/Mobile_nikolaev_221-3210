@@ -1,0 +1,11 @@
+C:\Users\iluxa\OneDrive\Рабочий стол\пробник2\TaskManager\TaskManagerLibrary\bin\Debug\net8.0\TaskManagerLibrary.deps.json
+C:\Users\iluxa\OneDrive\Рабочий стол\пробник2\TaskManager\TaskManagerLibrary\bin\Debug\net8.0\TaskManagerLibrary.dll
+C:\Users\iluxa\OneDrive\Рабочий стол\пробник2\TaskManager\TaskManagerLibrary\bin\Debug\net8.0\TaskManagerLibrary.pdb
+C:\Users\iluxa\OneDrive\Рабочий стол\пробник2\TaskManager\TaskManagerLibrary\obj\Debug\net8.0\TaskManagerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iluxa\OneDrive\Рабочий стол\пробник2\TaskManager\TaskManagerLibrary\obj\Debug\net8.0\TaskManagerLibrary.AssemblyInfoInputs.cache
+C:\Users\iluxa\OneDrive\Рабочий стол\пробник2\TaskManager\TaskManagerLibrary\obj\Debug\net8.0\TaskManagerLibrary.AssemblyInfo.cs
+C:\Users\iluxa\OneDrive\Рабочий стол\пробник2\TaskManager\TaskManagerLibrary\obj\Debug\net8.0\TaskManagerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\iluxa\OneDrive\Рабочий стол\пробник2\TaskManager\TaskManagerLibrary\obj\Debug\net8.0\TaskManagerLibrary.dll
+C:\Users\iluxa\OneDrive\Рабочий стол\пробник2\TaskManager\TaskManagerLibrary\obj\Debug\net8.0\refint\TaskManagerLibrary.dll
+C:\Users\iluxa\OneDrive\Рабочий стол\пробник2\TaskManager\TaskManagerLibrary\obj\Debug\net8.0\TaskManagerLibrary.pdb
+C:\Users\iluxa\OneDrive\Рабочий стол\пробник2\TaskManager\TaskManagerLibrary\obj\Debug\net8.0\ref\TaskManagerLibrary.dll
